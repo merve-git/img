@@ -14,7 +14,7 @@ You search from countries list and as a bonus you can see the currenct currency 
 
 <p float="left">
   <img src="https://github.com/merve-git/img/blob/main/Search.png" width="250">
-  <img src="https://github.com/merve-git/img/blob/main/Tag.png" width="250">
+  <img src="https://github.com/merve-git/img/blob/main/Tag_Detail.png" width="250">
 </p>
 
 You can always change the default currency from options.
